@@ -1,5 +1,5 @@
 # App link [![HitCount](http://hits.dwyl.com/garain/collision-data-visualizer-app.svg)](http://hits.dwyl.com/garain/collision-data-visualizer-app)
-[Link to app](https://garain.vision/Authentication/mlvisualize)
+[Link to app](https://garain.vision/Authentication/collisionvisualize)
 
 # Deployed by
 Avishek Garain
