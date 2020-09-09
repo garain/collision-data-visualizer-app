@@ -1,4 +1,4 @@
-# App link
+# App link [![HitCount](http://hits.dwyl.com/garain/collision-data-visualizer-app.svg)](http://hits.dwyl.com/garain/collision-data-visualizer-app)
 https://collision-data-visualizer.herokuapp.com/
 
 # Deployed by
